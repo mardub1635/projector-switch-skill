@@ -1,4 +1,5 @@
 dependencies:
-  python:
-    - paramiko
+   python:
+     - gensim
+     - paramiko
 
