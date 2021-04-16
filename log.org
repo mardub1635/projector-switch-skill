@@ -1,0 +1,9 @@
+April 2021
+Thursday:
+6h
+Friday:
+3h+.
+[X] create first skill
+[ ] make the projector command through ssh 
+
+
