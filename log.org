@@ -2,8 +2,12 @@ April 2021
 Thursday:
 6h
 Friday:
-3h+.
-[X] create first skill
-[ ] make the projector command through ssh 
-
-
+3h+2h+.
+- [X] create first skill
+- [X] make the projector command through
+- [ ] brancher micro
+- [ ] Import a docker in kodi
+- [ ] Create a docker in kodi
+- [ ] do/improve config file docker
+- [ ] 
+- [ ] 
