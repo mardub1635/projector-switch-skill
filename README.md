@@ -10,6 +10,9 @@ Turns on and off your projector on demand.
 * "Turn off the projector"
 * "Switch off projector"
 
+## Installation
+msm install `https://github.com/mardub1635/projector-switch-skill.git`
+
 ## Credits
 Marie Dubremetz
 
