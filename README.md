@@ -9,6 +9,8 @@ Turns on and off your projector on demand.
 * "Turn on the projector"
 * "Turn off the projector"
 * "Switch off projector"
+## Installation
+SSH to your device and run: msm install https://github.com/pcwii/cpkodi-skill.git
 
 ## Credits
 Marie Dubremetz
