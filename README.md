@@ -13,7 +13,7 @@ Turns on and off your projector on demand.
 SSH to your device and run: msm install https://github.com/mardub1635/projector-switch-skill.git
 
 ## Credits
-Marie Dubremetz
+github: @mardub1635
 
 ## Category
 **Daily**
