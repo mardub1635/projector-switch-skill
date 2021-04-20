@@ -3,11 +3,15 @@ Thursday:
 6h
 Friday:
 3h+2h+.
+Monday 19 April:
+6h
+Tuesday 20 April:
+4h
 - [X] create first skill
 - [X] make the projector command through
-- [ ] brancher micro
-- [ ] Import a docker in kodi
-- [ ] Create a docker in kodi
+- [X] brancher micro
+- [X] Import a docker in kodi
+- [X] Create a docker in kodi
 - [ ] do/improve config file docker
-- [ ] 
+- [ ] Retry installing skill
 - [ ] 

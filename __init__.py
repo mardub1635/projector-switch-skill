@@ -10,12 +10,12 @@ class ProjectorSwitch(MycroftSkill):
     def run_command(self,cmd):
         ssh=paramiko.SSHClient()
         ssh.load_system_host_keys()
-        print('Mycroft is gonna print the settings to connect to your device if the settings are empty and you get an error please got to home.mycroft.ai look to the projector switch skill and change the crentials settings, click on save.) 
+        print('Mycroft is gonna print the settings to connect to your device if the settings are empty and you get an error please got to home.mycroft.ai look to the projector switch skill and change the crentials settings, click on save.)') 
         print('I will connect under the username:') 
         usernm=self.settings.get('username')
         hostnm=self.settings.get('hostname')
         
-        passwd=self.settings.get('password', and if password is not enough try the generating ssh key via "ssh-keygen", "ssh-copy-id user@hostaddress"')
+        passwd=self.settings.get('password', 'and if password is not enough try the generating ssh key via "ssh-keygen", "ssh-copy-id user@hostaddress"')
         print(usernm)
         print('I will connect under hostname:',hostnm)
         print('I will connect under password:',passwd)
