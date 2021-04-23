@@ -7,6 +7,11 @@ Monday 19 April:
 6h
 Tuesday 20 April:
 4h
+Wednesday 21 April:
+5h
+Thursday 22 April:
+6h
+
 - [X] create first skill
 - [X] make the projector command through
 - [X] brancher micro
@@ -14,4 +19,10 @@ Tuesday 20 April:
 - [X] Create a docker in kodi
 - [ ] do/improve config file docker
 - [ ] Retry installing skill
+- [ ] Make command line accessible through the settings
+- [X] Create a demo video
+- [ ] Make the command line adaptable in the settings by the user
+- [ ] Create a tutorial
+- [ ] 
+- [ ] 
 - [ ] 
